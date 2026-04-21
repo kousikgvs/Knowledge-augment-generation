@@ -1,2 +1,5 @@
 networkx
 matplotlib
+langchain_groq
+langchain_core
+python-dotenv
